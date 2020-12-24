@@ -8,7 +8,7 @@
 import Foundation
 public class Profile{
     private init() {}
-    public func tetString()->String{
+    public static func tetString()->String{
         return UUID().uuidString
     }
 }

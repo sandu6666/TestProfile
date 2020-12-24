@@ -1,5 +1,5 @@
 PODS:
-  - TestProfile (1.0)
+  - TestProfile (1.0.1)
 
 DEPENDENCIES:
   - TestProfile (from `../TestProfile/`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../TestProfile/"
 
 SPEC CHECKSUMS:
-  TestProfile: 86d8ad0861d989c94f0c2b453c0f056e75f27d06
+  TestProfile: d943a0c78ac816be3a0ac580064da0859f79295c
 
 PODFILE CHECKSUM: a65a119cd0a023df1515d10d0d6fc4d2ed02bb52
 
