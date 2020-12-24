@@ -1,0 +1,16 @@
+PODS:
+  - TestProfile (1.0)
+
+DEPENDENCIES:
+  - TestProfile (from `../TestProfile/`)
+
+EXTERNAL SOURCES:
+  TestProfile:
+    :path: "../TestProfile/"
+
+SPEC CHECKSUMS:
+  TestProfile: 86d8ad0861d989c94f0c2b453c0f056e75f27d06
+
+PODFILE CHECKSUM: a65a119cd0a023df1515d10d0d6fc4d2ed02bb52
+
+COCOAPODS: 1.10.0

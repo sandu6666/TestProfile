@@ -1,0 +1,6 @@
+framework module TestProfile {
+  umbrella header "TestProfile-umbrella.h"
+
+  export *
+  module * { export * }
+}
